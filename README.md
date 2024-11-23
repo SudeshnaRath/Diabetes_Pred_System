@@ -1,1 +1,0 @@
-# Diabetes_Pred_System
